@@ -1,4 +1,5 @@
 
+
 # The-Tech-Blog
 
 14 Model-View-Controller (MVC): Tech Blog
@@ -52,6 +53,7 @@ The following animation demonstrates the application functionality:
 
 ![Pictuer 2](https://user-images.githubusercontent.com/77666204/121511362-e340a080-ca2b-11eb-89ff-0109981d0164.png)
 ![Picture 1](https://user-images.githubusercontent.com/77666204/121511371-e471cd80-ca2b-11eb-9487-d3a3e1913c16.png)
+![Picture 3](https://user-images.githubusercontent.com/77666204/121511580-200c9780-ca2c-11eb-9b45-2d6dd5d84b0e.png)
 
 
 Getting Started
