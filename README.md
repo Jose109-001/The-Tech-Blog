@@ -1,3 +1,4 @@
+
 # The-Tech-Blog
 
 14 Model-View-Controller (MVC): Tech Blog
@@ -48,6 +49,9 @@ THEN I am automatically signed out of the site
 
 Mock-Up
 The following animation demonstrates the application functionality:
+
+![Pictuer 2](https://user-images.githubusercontent.com/77666204/121511362-e340a080-ca2b-11eb-89ff-0109981d0164.png)
+![Picture 1](https://user-images.githubusercontent.com/77666204/121511371-e471cd80-ca2b-11eb-9487-d3a3e1913c16.png)
 
 
 Getting Started
