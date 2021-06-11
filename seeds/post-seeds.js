@@ -1,7 +1,7 @@
 const { Post } = require('../models');
 
 const postData = [{
-        title: "Fear of Job Insecurity",
+        title: "Manage your stress",
         content: "The fear of job loss refers to the felt threat, stress, and perceived powerlessness due to the possibility of leaving the current job and being not hired in the labor marke.",
         user_id: 1
 
